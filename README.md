@@ -1,6 +1,6 @@
 # APSP I2C 89 Series Pressure Sensor Starter Kit
 
-Welcome to the APSP I2C 89 Series Pressure Sensor Starter Kit repository. This repository contains a set of resources designed to help you get up and running with your new pressure sensor. 
+Welcome to the [APSP I2C 89 Series Pressure Sensor Starter Kit](https://sensorsandpower.angst-pfister.com/de/produkte/drucksensoren-kraftsensoren/produkt/starter-kit-89-series/) repository. This repository contains a set of resources designed to help you get up and running with your new pressure sensor. 
 
 ## Table of Contents
 1. [Description](#description)
