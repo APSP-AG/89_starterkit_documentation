@@ -102,8 +102,8 @@ void printPressure() {
 void printTemperature() {
   uint32_t temperatureData = 0;
 
-  for (int i = 4; i < 7; i++) { // Next two bytes represent temperature
-    temperatureData |= ((uint32_t)readByte[i] << ((6-i) * 8));
+  for (int i = 4; i < 6; i++) { // Next two bytes represent temperature
+    temperatureData |= ((uint32_t)readByte[i] << ((5-i) * 8));
   }
   
   Serial.print("Temperature: ");
