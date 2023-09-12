@@ -26,7 +26,7 @@ To use the Arduino code, open the `.ino` file in the Arduino IDE and upload it t
 To understand more about the sensor, its specifications, and how to use it, refer to the user manual and the datasheet included in this repository.
 
 ## Support
-If you encounter any issues or have any questions about the APSP I2C 89 Series Pressure Sensor Starter Kit, please create a post on the [discussions section](https://github.com/APSP-AG/89_starterkit_documentation/discussions) in this repository or contact michel.krapf@angst-pfister.com.
+If you encounter any issues or have any questions about the APSP I2C 89 Series Pressure Sensor Starter Kit, please create a post on the [discussions section](https://github.com/APSP-AG/89_starterkit_documentation/discussions) in this repository or contact engineering.apsp@angst-pfister.com.
 
 
 
